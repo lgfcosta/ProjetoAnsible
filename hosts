@@ -2,4 +2,4 @@
 172.17.177.50 ansible_user=vagrant ansible_ssh_private_key_file="/home/usernet/Documentos/ansible_AWX_Galaxy_e_Vault/.vagrant/machines/dbserver/virtualbox/private_key"
 
 [awx]
-192.168.0.5 ansible_user=vagrant ansible_ssh_private_key_file="/home/usernet/Documentos/ansible_AWX_Galaxy_e_Vault/.vagrant/machines/awx/virtualbox/private_key"
+192.168.0.5
